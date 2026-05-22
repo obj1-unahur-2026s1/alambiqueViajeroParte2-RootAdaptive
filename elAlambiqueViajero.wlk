@@ -105,4 +105,10 @@ object moto{
     method puedeFuncionar() = not moto.rapido()
     method desgaste() { }
     method patenteValida() = false
+
+
+    method pruebaDepush(){
+        return true 
+    }
 }
+
